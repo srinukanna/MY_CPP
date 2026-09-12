@@ -28,6 +28,7 @@ int main()
     for(int i=j;i<arr.size();i++){
         arr[i] = 0;
     }
+    
     for(int i=0;i<arr.size();i++){
         cout<<arr[i];
     }
