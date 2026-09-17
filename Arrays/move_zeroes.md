@@ -20,6 +20,7 @@ int main(){
 
 }
 ```
+
 ### Brute force approach:
 ```
 #include <iostream>
