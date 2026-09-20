@@ -1,3 +1,4 @@
+
 ```
 #include <iostream>
 #include<vector>
@@ -6,7 +7,6 @@ int main() {
     // Write C++ code here
     int n;
     cin>>n;
-    
     vector <int> v;
     
     for(int i=0;i<n;i++){

@@ -30,8 +30,5 @@ int main() {
     
 
    cout<<maxprofit;
-    
-    
-
-    return 0;
+   return 0;
 }
